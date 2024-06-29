@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.21f269f7.css",
+    "main.js": "/static/js/main.d70ebd36.js",
+    "static/js/453.ed3810f9.chunk.js": "/static/js/453.ed3810f9.chunk.js",
+    "static/media/bg.mp4": "/static/media/bg.c6e3f136d1a234c3bb21.mp4",
+    "static/media/colleagues-working-cozy-office-medium-shot.jpg": "/static/media/colleagues-working-cozy-office-medium-shot.ede31081d8882c544d99.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/businesswoman-using-tablet-analysis.jpg": "/static/media/businesswoman-using-tablet-analysis.3b16468a30a69c8c4ff2.jpg",
+    "static/media/colleagues-working-cozy-office-medium-shot.png": "/static/media/colleagues-working-cozy-office-medium-shot.99b56cd8dd31bbb1f265.png",
+    "static/media/undraw_Remote_design_team_re_urdx.png": "/static/media/undraw_Remote_design_team_re_urdx.d2dcf37c96ffd51de121.png",
+    "index.html": "/index.html",
+    "main.21f269f7.css.map": "/static/css/main.21f269f7.css.map",
+    "main.d70ebd36.js.map": "/static/js/main.d70ebd36.js.map",
+    "453.ed3810f9.chunk.js.map": "/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21f269f7.css",
+    "static/js/main.d70ebd36.js"
+  ]
+}
